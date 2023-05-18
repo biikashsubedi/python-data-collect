@@ -24,20 +24,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\gk.nepalwebtech.com\append\merged.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\gk.nepalwebtech.com\append\merged_updated.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\gk.nepalwebtech.com\append\output.csv">
           <value>
             <Attribute>
